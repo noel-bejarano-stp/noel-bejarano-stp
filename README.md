@@ -1,16 +1,18 @@
-## Hi there 👋
+### ☕ Senior Java Developer | Banking Technology APIs
 
-<!--
-**noel-bejarano-stp/noel-bejarano-stp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I am a Software Engineer with a solid background as a **Senior Java Developer**. My focus is on the **Banking Technology** sector.
 
-Here are some ideas to get you started:
+🚀 My *expertise* is focused on the **Backend**, where I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **API Development:** Building robust and scalable APIs for financial services.
+* **Frameworks:** Expertise in **Spring Framework** (Spring Boot, Spring Security, Spring Cloud).
+* **Architecture:** Design and implementation of **Microservices** architectures.
+
+✨ **Current Ventures & Automation:**
+
+* **Frontend:** Expanding my *stack* with **Angular** and **TypeScript**.
+* **BPM/Workflow:** Enthusiast for business process automation using **Camunda 8**.
+
+📫 **Let's Work Together:**
+
+* **Java | Spring | Angular | TypeScript | Camunda 8 | FinTech**
